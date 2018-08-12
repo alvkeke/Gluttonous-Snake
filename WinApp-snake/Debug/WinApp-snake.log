@@ -1,0 +1,6 @@
+﻿  MsgFunctions.cpp
+  Snake.cpp
+  main.cpp
+e:\work\vs\winapp-snake\winapp-snake\main.cpp(50): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  WinApp-snake.vcxproj -> E:\work\VS\WinApp-snake\Debug\WinApp-snake.exe
